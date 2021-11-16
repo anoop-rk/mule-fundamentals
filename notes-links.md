@@ -13,3 +13,6 @@
 - **Self paced enrollment Link** - https://training.mulesoft.com/course/development-fundamentals-mule4
 - **DIY exercises and quiz link** - https://training.mulesoft.com/course/development-fundamentals-mule4/quiz-diy
 - **Certification Details** - https://training.mulesoft.com/certification/developer-mule4-level1
+
+- **For Each Scope** https://docs.mulesoft.com/mule-runtime/4.3/for-each-scope-concept
+
