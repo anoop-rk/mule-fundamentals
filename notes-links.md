@@ -21,6 +21,7 @@
 ## Module 5
 - **Cloudhub Networking Guide** - https://docs.mulesoft.com/runtime-manager/cloudhub-networking-guide
 - **Cloudhub Architecture** - https://docs.mulesoft.com/runtime-manager/cloudhub-architecture
+- **Cloudhub High Availability** - https://docs.mulesoft.com/runtime-manager/cloudhub-hadr
 
 ## Module 10
 - **Mule 4 error handling demystified** - https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mule4-error-handling/
