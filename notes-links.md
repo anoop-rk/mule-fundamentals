@@ -3,6 +3,7 @@
 - **Studio Download Link** - https://www.mulesoft.com/lp/dl/studio
 - **Advanced Rest Client Download Link** - https://install.advancedrestclient.com/install
 - **Salesforce Developer account** - https://developer.salesforce.com/
+- **Anypoint Studio 11 Troubleshooting** - https://docs.mulesoft.com/studio/7.11/browser-settings
 
 ## General - Technical
 - **Mulesoft documentation** - https://docs.mulesoft.com/general/
