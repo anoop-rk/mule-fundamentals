@@ -59,6 +59,13 @@
 - **Dataweave Playground** - https://developer.mulesoft.com/learn/dataweave
 - **Dataweave Functions** - https://docs.mulesoft.com/mule-runtime/4.3/dw-functions
 - **Flatten Function** - https://docs.mulesoft.com/dataweave/2.4/dw-core-functions-flatten
+- **Map Function** - https://docs.mulesoft.com/dataweave/2.4/dw-core-functions-map
+- **DW Core** - https://docs.mulesoft.com/dataweave/2.4/dw-core
+- **DW Strings** - https://docs.mulesoft.com/dataweave/2.4/dw-strings
+- **Dasherize Functions** - https://docs.mulesoft.com/dataweave/2.4/dw-strings-functions-dasherize
+- **Filter Function** - https://docs.mulesoft.com/dataweave/2.4/dw-core-functions-filter
+- **DistinctBy Function** - https://docs.mulesoft.com/dataweave/2.4/dw-core-functions-distinctby
+- **OrderBy Function** - https://docs.mulesoft.com/dataweave/2.1/dw-core-functions-orderby
 
 ## Module 12
 - **For Each Scope** https://docs.mulesoft.com/mule-runtime/4.3/for-each-scope-concept
